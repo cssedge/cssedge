@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [NEXTjs Project - LNE](https://lne21-git-main-nse.vercel.app)
 
-- 🌱 I’m currently learning **ReactJS, nextJs, and VueJS**
+- 🌱 I’m currently learning **ReactJS, nextJs, VueJS, and Svelte**
 
 - 📫 How to reach me **abb.sultan@gmail.com**
 
