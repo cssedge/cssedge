@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abbas Sultan</h1>
 <h3 align="center">A passionate front-end developer from Egypt</h3>
 
-- 🔭 I’m currently working on [NEXTjs Project - LNE](https://lne21-git-master-nse.vercel.app/)
+- 🔭 I’m currently working on [NEXTjs Project - LNE](https://www.nouvelles-esthetiques.com)
 
 - 🌱 I’m currently learning **ReactJS, nextJs, VueJS, and Svelte**
 
